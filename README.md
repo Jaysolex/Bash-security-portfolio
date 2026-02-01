@@ -33,13 +33,13 @@ Each directory represents a progressive cybersecurity skill focus, moving from f
 
 ## Featured Projects
 
-### 🟠 B-soc — SOC Detection Automation
+### B-soc — SOC Detection Automation
 **SSH Failed Login Detection**
 - Detects repeated failed SSH login attempts
 - Threshold-based alerting to identify brute-force attacks
 - MITRE ATT&CK mapping: **T1110 – Brute Force**
 
-📄 Includes:
+ Includes:
 - Bash script
 - High-level documentation
 - Line-by-line explanation for interview preparation
@@ -48,7 +48,7 @@ Each directory represents a progressive cybersecurity skill focus, moving from f
 
 ---
 
-### 🔵 C-blue — Blue Team Monitoring
+### C-blue — Blue Team Monitoring
 **System Resource Monitor**
 - Displays top CPU- and memory-consuming processes
 - Useful for detecting abnormal resource usage or early compromise indicators
@@ -57,13 +57,13 @@ Each directory represents a progressive cybersecurity skill focus, moving from f
 
 ---
 
-### 🔴 D-red — Ethical Reconnaissance Automation
+### D-red — Ethical Reconnaissance Automation
 **Basic Recon Script**
 - DNS record enumeration
 - HTTP header inspection
 - Uses read-only, non-intrusive techniques only
 
-📄 Emphasizes ethical boundaries and safe reconnaissance practices
+Emphasizes ethical boundaries and safe reconnaissance practices
 
 📸 Screenshot: `screenshots/20-basic-recon.png`
 
@@ -88,4 +88,5 @@ No scripts are intended for unauthorized access, exploitation, or malicious acti
 ## Author
 **Solomon James**  
 Cybersecurity Analyst | SOC • Blue Team • Automation  
+linkedin: www.linkedin.com/in/solomon-james-cyber
 GitHub: https://github.com/Jaysolex
