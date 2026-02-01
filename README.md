@@ -69,6 +69,8 @@ Emphasizes ethical boundaries and safe reconnaissance practices
 
 📸 Screenshot: `screenshots/20-basic-recon.png`
 
+![Alt txt](screenshots/20-basic-recon.png)
+
 ---
 
 ## Methodology
