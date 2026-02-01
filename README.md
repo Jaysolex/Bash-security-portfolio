@@ -46,6 +46,8 @@ Each directory represents a progressive cybersecurity skill focus, moving from f
 
 📸 Screenshot: `screenshots/07-ssh-failed-login-detection.png`
 
+![Alt txt](screenshots/07-ssh-failed-login-detection.png)
+
 ---
 
 ### C-blue — Blue Team Monitoring
