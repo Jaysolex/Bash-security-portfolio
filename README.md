@@ -90,16 +90,17 @@ All content in this repository is provided **for educational and defensive secur
 No scripts are intended for unauthorized access, exploitation, or malicious activity.
 
 ---
-
+```
 ## AI-Assisted Development
 
 This project was developed using an AI-assisted workflow to accelerate
-script generation, refactoring, and documentation. All code logic,
+script editing, refactoring, and documentation. All code logic,
 security decisions, and final implementations were reviewed, tested,
 and validated manually.
 
 AI tools were used as a productivity aid, not as a replacement for
 technical understanding.
+```
 ---
 
 
