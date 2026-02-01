@@ -53,7 +53,9 @@ Each directory represents a progressive cybersecurity skill focus, moving from f
 - Displays top CPU- and memory-consuming processes
 - Useful for detecting abnormal resource usage or early compromise indicators
 
-📸 Screenshot: `screenshots/15-system-resource-monitor.png`
+📸 Screenshot: `screenshots/10-system-resource-monitor.png`
+
+![Alt txt](screenshots/10-system-resource-monitor.png)
 
 ---
 
